@@ -64,7 +64,8 @@
       {
         "name": "Facebook",
         "description": "la plantitas de marge",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/share/U7ShUUszFGoV9JGX/?mibextid=qi2Omg"
       },
       {
         "name": "Facebook",
