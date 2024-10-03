@@ -63,13 +63,14 @@
       },
       {
         "name": "Facebook",
-        "description": "MARY BALLESTEROS",
+        "description": "la plantitas de marge",
         "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
         "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":""
       }
     ]
   },
